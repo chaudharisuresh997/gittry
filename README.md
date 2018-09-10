@@ -1,5 +1,5 @@
 # gittry
-for experimiemts on git
+for experimiemts super on git
 wao git is super fast
 1
 <<<<<<< HEAD
